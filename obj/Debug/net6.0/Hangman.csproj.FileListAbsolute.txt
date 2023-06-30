@@ -1,0 +1,15 @@
+C:\Users\phind\Desktop\Hangman\bin\Debug\net6.0\Hangman.exe
+C:\Users\phind\Desktop\Hangman\bin\Debug\net6.0\Hangman.deps.json
+C:\Users\phind\Desktop\Hangman\bin\Debug\net6.0\Hangman.runtimeconfig.json
+C:\Users\phind\Desktop\Hangman\bin\Debug\net6.0\Hangman.dll
+C:\Users\phind\Desktop\Hangman\bin\Debug\net6.0\Hangman.pdb
+C:\Users\phind\Desktop\Hangman\obj\Debug\net6.0\Hangman.csproj.AssemblyReference.cache
+C:\Users\phind\Desktop\Hangman\obj\Debug\net6.0\Hangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phind\Desktop\Hangman\obj\Debug\net6.0\Hangman.AssemblyInfoInputs.cache
+C:\Users\phind\Desktop\Hangman\obj\Debug\net6.0\Hangman.AssemblyInfo.cs
+C:\Users\phind\Desktop\Hangman\obj\Debug\net6.0\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\phind\Desktop\Hangman\obj\Debug\net6.0\Hangman.dll
+C:\Users\phind\Desktop\Hangman\obj\Debug\net6.0\refint\Hangman.dll
+C:\Users\phind\Desktop\Hangman\obj\Debug\net6.0\Hangman.pdb
+C:\Users\phind\Desktop\Hangman\obj\Debug\net6.0\Hangman.genruntimeconfig.cache
+C:\Users\phind\Desktop\Hangman\obj\Debug\net6.0\ref\Hangman.dll
